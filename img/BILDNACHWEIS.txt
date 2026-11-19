@@ -1,0 +1,22 @@
+Alle Fotos: Unsplash (https://unsplash.com/license), kostenlose Lizenz, kommerzielle Nutzung erlaubt, keine Namensnennung Pflicht.
+Geprüft 19.11.2026 (Seitentext): „Free to use under the Unsplash License“, kein Unsplash+, nicht gesponsert.
+Quelle jeweils https://images.unsplash.com/photo-<ID>
+
+g-walkway.jpg 1782594700873-bbeefef37e11  Antonella Vilardo  unsplash.com/photos/JxicYOjeFFo  (Haus, Rasen mit Streifen, geschwungener Weg)
+lawn.jpg      1779636489740-6077a4198be6  Kenny Perez        unsplash.com/photos/BKBRtbcjlxI  (zwei Männer mähen/trimmen)
+beds.jpg      1777428762767-e3a797da389a  QY Liu             unsplash.com/photos/RykkS_DVhPQ  (Haus, Sträucher, rote Azaleen)
+hedge.jpg     1543309959-4d45288d1629     Peter Beukema      unsplash.com/photos/JB-QHEehcwI  (Heckenschere)
+band.jpg      1764969370921-7c8df49171cd  MV Vacation        unsplash.com/photos/zXH4Y7bRu3Y  (frisch gemähter Rasen)
+leaves.jpg    1733286125300-b4c5563295ad  Zhen Yao           unsplash.com/photos/20Xibv0RrDo  (Laubbläser auf Rasen, Herbst)
+hero.jpg      1781797221329-c3d083ab6d99  Roger Starnes Sr   unsplash.com/photos/1XRV7Z4lhGo  (graues Haus, Rasen mit Streifen)
+g-mulch.jpg   1628482283044-e5cc2f238de1  Faith Crabtree     unsplash.com/photos/Kmlfiddwj9M
+g-mower.jpg   1780419748459-075ce111534a  Kenny Perez        unsplash.com/photos/U8mUxOAbSOI
+g-house2.jpg  1631149784601-8e6c266b046a  Omri D. Cohen      unsplash.com/photos/Qjc6QtIEjjg
+g-trim.jpg    1689728318937-17d24bc0a65c  Michael Kahn       unsplash.com/photos/xWAsrLw_1hk
+g-brick.jpg   1773427663260-8418a314f0ee  Roger Starnes Sr   unsplash.com/photos/t0CsdU0wopU
+g-garden.jpg  1585107328143-be98f5f6119b  Ben Ashby          unsplash.com/photos/hsm-jZyTNeo
+
+Hinweis: Stockfotos, keine Arbeiten der Firma. Für die echte Seite durch deren Instagram-Fotos ersetzen (mit Zustimmung).
+Personen auf leaves.jpg / lawn.jpg / g-mower.jpg / g-trim.jpg nicht als eigenes Team ausgeben.
+
+Schrift: Barlow Condensed 600/700 (SIL OFL, @fontsource/barlow-condensed 5.1.0), Inter (SIL OFL), lokal in fonts/.
